@@ -15,7 +15,6 @@
   <h1>
     Hey There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </h1>
 </div>
 <div align="center">
@@ -32,9 +31,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I build websites and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NduatiKagiri-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nduati-kagiri-5414a4225/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nduati-Kagiri-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nduati-kagiri-5414a4225/)
 
-- :mailbox:You can view my portfolio: [![My Badge](here.)](https://nduatikagiri.co.ke/)
+- :mailbox:You can view my portfolio: [(here.)](https://nduatikagiri.co.ke/)
 
 ---
 
