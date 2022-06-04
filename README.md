@@ -15,6 +15,7 @@
   <h1>
     Hey There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </h1>
 </div>
 <div align="center">
@@ -31,7 +32,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I build websites and read tech articles.
 
-- :mailbox:How to reach me: [![My Badge](https://nduatikagiri.co.ke/icons/web.png)](https://nduatikagiri.co.ke)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NduatiKagiri-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nduati-kagiri-5414a4225/)
+
+- :mailbox:You can view my portfolio: [![My Badge](here.)](https://nduatikagiri.co.ke/)
 
 ---
 
@@ -54,10 +57,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NduatiKagiri&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NduatiKagiri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NduatiKagiri&layout=compact&theme=vision-friendly-dark)](https://github.com/NduatiKagiri/github-readme-stats)
 
 ---
 
-<!-- ### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
+<!-- BLOG-POST-LIST:END -->
