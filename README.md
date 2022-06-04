@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nduati_Kagiri-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nduati-kagiri-5414a4225/)
 
-- :mailbox:You can view my portfolio: [here.](https://nduatikagiri.co.ke/)
+- :mailbox:You can view my portfolio [here.](https://nduatikagiri.co.ke/)
 
 ---
 
