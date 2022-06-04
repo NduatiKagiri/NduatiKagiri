@@ -18,14 +18,14 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="175"/>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a student member at MicroverseInc learning to become a world class Software Developer.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
+- :telescope: I’m a student member of @MicroverseInc learning to become a world class Software Developer.
 
 - :seedling: Exploring Technical Skills.
 
